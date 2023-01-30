@@ -29,12 +29,12 @@ drive.mount('/content/drive')
 
 (5) Image alignment with RANSAC
 ```
-cd path\to\HW3_108034022\1
+cd path\to\HW3\1
 python HW3-1.py
 ```
 (6) K-means and mean-shift
 ```
-cd path\to\HW3_108034022\2
+cd path\to\HW3\2
 python HW3-2.py
 ```
 
